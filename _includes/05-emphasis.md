@@ -7,4 +7,4 @@ _problem solving_
 __Basic Programming knowledge in c++ annd python__
 __Autocadd 3dsmax primevera knowledege__
 __Good verbal and oral communication skill__
-_Multilingual in **Engllish hindi and Malayalam**  _
+_languages known **Engllish hindi and Malayalam**  _
